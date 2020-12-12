@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小杰的博客</title>
+  
+  <subtitle>欢迎</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/12138qzj/12138qzj.github.io/"/>
+  <updated>2020-08-23T02:49:30.091Z</updated>
+  <id>https://github.com/12138qzj/12138qzj.github.io/</id>
+  
+  <author>
+    <name>小杰</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>web缓存</title>
+    <link href="https://github.com/12138qzj/12138qzj.github.io/2020/08/23/web-huan-cun/"/>
+    <id>https://github.com/12138qzj/12138qzj.github.io/2020/08/23/web-huan-cun/</id>
+    <published>2020-08-23T02:37:11.000Z</published>
+    <updated>2020-08-23T02:49:30.091Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;web存储机制&quot;&gt;&lt;a href=&quot;#web存储机制&quot; class=&quot;headerlink&quot; title=&quot;web存储机制&quot;&gt;&lt;/a&gt;web存储机制&lt;/h1&gt;&lt;h3 id=&quot;storage类型介绍&quot;&gt;&lt;a href=&quot;#storage类型介绍&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="浏览器" scheme="https://github.com/12138qzj/12138qzj.github.io/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+    
+      <category term="浏览器" scheme="https://github.com/12138qzj/12138qzj.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+      <category term="web缓存" scheme="https://github.com/12138qzj/12138qzj.github.io/tags/web%E7%BC%93%E5%AD%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hook学习</title>
+    <link href="https://github.com/12138qzj/12138qzj.github.io/2020/08/17/hook-xue-xi/"/>
+    <id>https://github.com/12138qzj/12138qzj.github.io/2020/08/17/hook-xue-xi/</id>
+    <published>2020-08-17T04:19:26.000Z</published>
+    <updated>2020-08-23T02:44:57.597Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;useState&quot;&gt;&lt;a href=&quot;#useState&quot; class=&quot;headerlink&quot; title=&quot;useState&quot;&gt;&lt;/a&gt;useState&lt;/h4&gt;&lt;p&gt;useState返回状态（返回为useState中的参数）
+        
+      
+    
+    </summary>
+    
+      <category term="react" scheme="https://github.com/12138qzj/12138qzj.github.io/categories/react/"/>
+    
+    
+      <category term="react" scheme="https://github.com/12138qzj/12138qzj.github.io/tags/react/"/>
+    
+      <category term="hook" scheme="https://github.com/12138qzj/12138qzj.github.io/tags/hook/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>redux学习笔记</title>
+    <link href="https://github.com/12138qzj/12138qzj.github.io/2020/08/05/redux-xue-xi-bi-ji/"/>
+    <id>https://github.com/12138qzj/12138qzj.github.io/2020/08/05/redux-xue-xi-bi-ji/</id>
+    <published>2020-08-05T04:12:37.000Z</published>
+    <updated>2020-08-23T02:44:50.571Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="react" scheme="https://github.com/12138qzj/12138qzj.github.io/categories/react/"/>
+    
+    
+      <category term="react" scheme="https://github.com/12138qzj/12138qzj.github.io/tags/react/"/>
+    
+      <category term="redux" scheme="https://github.com/12138qzj/12138qzj.github.io/tags/redux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HTTP学习篇</title>
+    <link href="https://github.com/12138qzj/12138qzj.github.io/2020/08/01/http-xue-xi-pian/"/>
+    <id>https://github.com/12138qzj/12138qzj.github.io/2020/08/01/http-xue-xi-pian/</id>
+    <published>2020-08-01T05:23:23.000Z</published>
+    <updated>2020-08-17T04:08:16.053Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;TCP-IP协议族分层&quot;&gt;&lt;a href=&quot;#TCP-IP协议族分层&quot; class=&quot;headerlink&quot; title=&quot;TCP/IP协议族分层&quot;&gt;&lt;/a&gt;TCP/IP协议族分层&lt;/h2&gt;&lt;p&gt;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="浏览器" scheme="https://github.com/12138qzj/12138qzj.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+      <category term="HTTP" scheme="https://github.com/12138qzj/12138qzj.github.io/tags/HTTP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>玩具浏览器（附代码）</title>
+    <link href="https://github.com/12138qzj/12138qzj.github.io/2020/05/16/wan-ju-liu-lan-qi/"/>
+    <id>https://github.com/12138qzj/12138qzj.github.io/2020/05/16/wan-ju-liu-lan-qi/</id>
+    <published>2020-05-16T07:09:23.000Z</published>
+    <updated>2020-08-23T02:45:04.108Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;HTML解析&quot;&gt;&lt;a href=&quot;#HTML解析&quot; class=&quot;headerlink&quot; title=&quot;HTML解析&quot;&gt;&lt;/a&gt;&lt;strong&gt;HTML解析&lt;/strong&gt;&lt;/h3&gt;&lt;h4 id=&quot;解析过程&quot;&gt;&lt;a href=&quot;#解析过程&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="浏览器" scheme="https://github.com/12138qzj/12138qzj.github.io/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+    
+      <category term="浏览器" scheme="https://github.com/12138qzj/12138qzj.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+      <category term="原理" scheme="https://github.com/12138qzj/12138qzj.github.io/tags/%E5%8E%9F%E7%90%86/"/>
+    
+  </entry>
+  
+</feed>
